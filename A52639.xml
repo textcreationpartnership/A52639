@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the late extraordinary cure wrought in an instant upon Mrs. Eliz. Savage (lame from her birth) without the using of any natural means with the affidavits which were made before the Right Honorable the Lord Mayor, and the certificates of several credible persons, who knew her both before and since her cure : enquired into with all its circumstances, by noted divines, both of the Church of England, and others, and by eminent physicians of the College, and many persons of quality, who have express'd their full satisfaction : with an appendix, attempting to prove, that miracles are not ceas'd.</title>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52639</idno><idno type="EEBO-CITATION">13127077</idno>
+  <idno type="VID">97849</idno>
+  <idno type="EEBO-PROQUEST">2240863416</idno>
+  
+            <idno type="STC">Wing N193</idno>
+            <idno type="STC">ESTC R12248</idno>
+            <idno type="OCLC">13127077</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the late extraordinary cure wrought in an instant upon Mrs. Eliz. Savage (lame from her birth) without the using of any natural means with the affidavits which were made before the Right Honorable the Lord Mayor, and the certificates of several credible persons, who knew her both before and since her cure : enquired into with all its circumstances, by noted divines, both of the Church of England, and others, and by eminent physicians of the College, and many persons of quality, who have express'd their full satisfaction : with an appendix, attempting to prove, that miracles are not ceas'd.</title>
+               </titleStmt>
+               <extent>[3], 5-46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ..., and John Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 46-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Savage, Elizabeth, b. ca. 1665.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:97849:1"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed. </p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Feb.</hi> 7. 1693/4.</date>
+                           </dateline>
+                           <signed>
+                              <hi>Edw. Cooke.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="publishers_note">
+            <head>Advertisement.</head>
+            <p>THE Original Affidavits and Certificates, inserted in the following Narrative, are in the Hands of <hi>John Dunton,</hi> and <hi>John Harris;</hi> where any, who please, may peruse them.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:97849:1"/>
+            <p>A NARRATIVE Of the Late Extraordinary CURE Wrought in an Instant upon M<seg rend="sup">rs.</seg>
+               <hi>Eliz. Savage,</hi> (Lame from her Birth) Without the using of any Natural Means.</p>
+            <p>With the AFFIDAVITS which were made before the <hi>Right Honorable the Lord Mayor;</hi> and the CERTIFICATES of several Cre<g ref="char:EOLhyphen"/>dible Persons, who knew her both before and since her CURE.</p>
+            <p>Enquired into with all its Circumstances, by Noted <hi>Di<g ref="char:EOLhyphen"/>vines,</hi> both of the Church of <hi>England,</hi> and Others: And by Eminent <hi>Physicians</hi> of the College: And many Persons of <hi>Quality,</hi> who have express'd their full Satisfaction.</p>
+            <p>With an <hi>APPENDIX,</hi> attempting to prove, That Miracles are not ceas'd.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iohn Dunton</hi> at the <hi>Raven,</hi> and <hi>Iohn Harris</hi> at the <hi>Harrow</hi> in the <hi>Poultry.</hi> MDCXCIV. Price 6 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:97849:2"/>
+            <pb n="5" facs="tcp:97849:2"/>
+            <head>A Narrative of the late Extraordi<g ref="char:EOLhyphen"/>nary Cure wrought upon Mrs. <hi>Eli<g ref="char:EOLhyphen"/>zabeth Savage,</hi> &amp;c.</head>
+            <p>THOSE who despise all Narratives of this Nature, must be either such as do not believe Miracles (or Super<g ref="char:EOLhyphen"/>natural Works) to have been ever wrought; or such as affirm them to be long since ceased. The former sort declare themselves not only <hi>Enemies to all Revealed Religion,</hi> but <hi>downright Atheists,</hi> since they cannot deny that Miracles have been, but on Supposition of the Impossi<g ref="char:EOLhyphen"/>bility of their being; and in saying they could never have been, they deny any such Power as can Effect what is Supernatural; and therefore deny the Being of God: But these are sunk into so profound a Stupidity, as to be them<g ref="char:EOLhyphen"/>selves a sort of Miracles; and are not like to be convinced by the most Evident ones, tho' wrought before their Eyes: As our Blessed Lord brings in <hi>Abraham,</hi> saying to the Rich Man in Torments, <hi>If they believe not</hi> Moses <hi>and the Prophets, neither will they believe, though one arose from the Dead.</hi>
+            </p>
+            <p>The latter sort (<hi>viz.</hi> such as, granting Miracles to have been, affirm them to be
+<pb n="6" facs="tcp:97849:3"/>long since ceased) are justly chargeable with <hi>great Rashness:</hi> We would ask such, How came you by such a Certainty, of the total Ceasing of Miracles? Is there any such Passage either in the Old or New Testament, <hi>As that after such a time, there shall never be any more Mira<g ref="char:EOLhyphen"/>cles?</hi> If there be, we wish we could see it. Or is there any Principle of Reason, from whence it may be concluded, or probably gathered, that after the Truth of Christianity had re<g ref="char:EOLhyphen"/>ceived its full Confirmation, it was not fit that more Miracles should be ever wrought? If there be any such Principle, it can only be <hi>this,</hi> viz. <hi>Deus &amp; Natura nihil faciunt frustra:</hi> Or, <hi>God, as well as Nature, doth nothing in vain.</hi> But if there should be Miracles since wrought. Who dares to say that they are wrought in vain? If a Miracle should be wrought for no other end, than the releasing a Poor Creature from a Tormenting and Afflicting Malady, that is Incurable by any Humane Means, Would it be a <hi>vain</hi> Miracle? Sure, it would be an exceeding great Instance of the Divine <hi>Goodness,</hi> and therefore not unworthy of the Divine <hi>Wisdom.</hi> And more especially, if it be wrought upon a Person, who Fears God, and Believes in his Son Jesus, and makes great Conscience of obeying them. And (by the way) the Gen<g ref="char:EOLhyphen"/>tlewoman concerned in this Narrative, as also her Husband, do give very good Evidence of their being such Persons, and very Sincerely Devout and Religious People according to that
+<pb n="7" facs="tcp:97849:3"/>Light they have. But can any thing be more Worthy of the Boundless Goodness and Mercy of God and our Saviour, than to vouchsafe fresh Miracles, in an Age wherein Infidelity is so openly professed, as it is now, for the Pre<g ref="char:EOLhyphen"/>vention of the farther spreading thereof, and the Conviction of such as are not grown Ob<g ref="char:EOLhyphen"/>durate, and who have not yet added Malice to Infidelity?</p>
+            <p>We will put one Question more to these Persons, <hi>viz.</hi> If you give no Credit to as good Evidence of Matters of Fact, done among your selves, as such Matters are capable of, How came you to believe that there were, many Ages since, any Miracles really wrought? But that late one of the Cure of the Poor French Girl without any Natural Means, is abundantly confirmed by such Evidence; and whether this here related be so too, let the Impartial Reader judge.</p>
+            <p>Mrs. <hi>Elizabeth Savage,</hi> the Daughter of Mr. <hi>William Morton</hi> of the Parish of <hi>Hitch<g ref="char:EOLhyphen"/>ington</hi> in the County of <hi>Bucks,</hi> and the Wife of Mr. <hi>John Savage</hi> School-Master, living in <hi>Horse-shoe-Alley</hi> in <hi>Middle-Moor fields,</hi> was afflict<g ref="char:EOLhyphen"/>ed with a Palsie on her right-side, and her <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> (to use her own words) knows nothing to the contrary, but that she brought it into the World with her; she perceived it so much, when she was about twelve Months old, that she feared some of her Childs Bones were dislocated; but advising with a Surgeon, he
+<pb n="8" facs="tcp:97849:4"/>told her it was only some Weakness, and di<g ref="char:EOLhyphen"/>rected her to some Strengthening things, and to Anoint her side with a certain Oyl; but all Applications proved Ineffectual; and as she grew in Years, her Distemper more and more visibly appeared, and was judged Remediless Her right Thumb was distorted, and three of her Fingers were bowed round, almost close to the Palm of her Hand, but her Fore-finger she could more stretch out. She was unable to put with that Hand any Sustenance to her Mouth: It was very Cold in comparison of the other Hand, even in the hottest Weather; but it felt and looked like a dead Hand in the Winter, which makes her Cure the more Re<g ref="char:EOLhyphen"/>markable, in that it was effected in a very cold Season, namely on the 22d day of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> last past, she being then 28 Years old and upwards; the Evening before she complained of the Coldness of her Hand (though it was next to the Fire) saying such words as these<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> She thought it was a Frost abroad by her Hand The Circumstances of this Cure take as follows.</p>
+            <p>Mr. <hi>Savage</hi> and his Wife agreed to set apart the foresaid day, for the greatest part thereof, in Fasting and Prayer to Almighty God, purely upon a Spiritual Account, not for the obtain<g ref="char:EOLhyphen"/>ing of any Temporal Blessings. About eleven of the Clock, he being alone upon his Knees, what he had heard of the French Girls Cure came into his Mind, and made such an Im<g ref="char:EOLhyphen"/>pression,
+<pb n="9" facs="tcp:97849:4"/>that he most heartily praised God, for shewing his Power in so wonderful a man<g ref="char:EOLhyphen"/>ner, at such a time as this, when Atheism and Infidelity so much abound: And this put him in mind of his Wives Weakness, after his return out of his Chamber to her, and he was more than ordinarily affected therewith: And asking her whether she believed that our Lord Christis able to Cure her Hand, adding, That he be<g ref="char:EOLhyphen"/>lieved it, though he could not say that he be<g ref="char:EOLhyphen"/>lieved he would do it: This sudden Question drew Tears from her Eyes, and she answered, That had she been on the Earth when he was, she believed he could have cured her, and that he is able to do it now, but she questioned whether he would bestow such a Favour on her, saying, That it may be it might not be good for her to have such a Mercy; and that it may be this Infirmity was inflicted to keep her Humble; whereas she might have been as Proud of something or other as too many are: This was the Substance of what passed now between them.</p>
+            <p>Then it came into Mr. <hi>Savage</hi>'s Mind, to ask his Wife what Chapter the French Girl read, but neither of them knowing certainly, he looked into St. <hi>Matthew,</hi> and finding that the eighth Chapter treated of Christ's cleansing the Leper, he began to read it, and when he had read those words of his, <hi>Lord, if thou wilt, thou canst make me Clean;</hi> he said, That himself had as much Faith in the
+<pb n="10" facs="tcp:97849:5"/>Power of Christ as he had, as to the cu<g ref="char:EOLhyphen"/>ring of her Infirmity: And then proceeding to the third Verse, where Christ saith, <hi>I will, be thou Clean;</hi> then on a sudden, or quickly after, she felt a great Pain in the middle Joynts of her crooked Fingers, which at least before the Chapter was ended were stretched out, and became almost as strait as those on the other Hand. And her Thumb, which was most oddly bent, was now every whit as strait as the other, whereas they could not be stretched before by her other Hand but a little way, without Pain; and upon letting them go, they immediately returned to their Crookedness, as if there were a Spring in their Joynts. But now those Fingers and that Thumb she can move as nimbly as those of her left Hand: And they were so strengthned, that she, with<g ref="char:EOLhyphen"/>out pain, double lock'd the fore-door of her House with that Hand, whereas before she never could single lock it, or so much as lock or unlock her Boxes with it. And this she did about two hours after this wonderful Altera<g ref="char:EOLhyphen"/>tion. And now came warmth into that Hand, and even all the Frosty Weather hath it con<g ref="char:EOLhyphen"/>tinued as warm as the other; and it is become like the other Hand, as to its natural colour. And whereas it was Poor and Lean before, it since grows (as likewise that Wrist) fuller and more fleshy. All this without the use of any means from first to last, but Faith in God and Christ, and reading that part of God's
+<pb n="11" facs="tcp:97849:5"/>Holy Word the eighth of St. <hi>Matthew.</hi> After Mrs. <hi>Savage</hi> had shewed her Husband what God had done, they both sate some time in Tears of Admiration, being much amazed at God's wonderful Power and Goodness: And after they had recovered themselves, they so<g ref="char:EOLhyphen"/>lemnly praised God on their Knees for his in<g ref="char:EOLhyphen"/>finite Mercy to them. And next day she found a very great Alteration in her weak side; for whereas she was not able to walk a Mile with<g ref="char:EOLhyphen"/>out great weariness in <hi>London,</hi> though assisted by her Husband, and sometimes was fain to rest her self too in a Journy of less than a Mile, which she every Week went with him, when she was at all able; now she walked from <hi>Moor-fields</hi> to <hi>Mill-yard</hi> at the farther end of <hi>Goodmans-fields,</hi> and returned home again with<g ref="char:EOLhyphen"/>out the least complaint of weariness: And the day following (being but the second day after her Cure) she walk'd to <hi>Beech lane,</hi> and from thence to <hi>Shadwell-Dock,</hi> round about by <hi>Rat<g ref="char:EOLhyphen"/>cliff-high-way,</hi> and through <hi>Old-Gravel-lane,</hi> and about by the Water-side, and back again through <hi>Goodmans-fields</hi> home, which cannot be less than about four or five Miles: All this without weariness. About a Fortnight after, she went also on foot from her House to <hi>Newport-Alley,</hi> beyond <hi>Long-Acre,</hi> to see the French Girl, and from thence down to <hi>Little-Tower-Hill:</hi> This she did between eight and twelve in the Morning, and at her Jour<g ref="char:EOLhyphen"/>nies end told her Husband that she was not
+<pb n="12" facs="tcp:97849:6"/>weary. And now she finds not but that her right side is as strong as her left, and she grows fuller and fresher in her Countenance. This Winter she grew so Weak and Cold of that Hand and Side, that her Husband was cast down in his Mind, and in great fear that she would come to be Bedrid, and therefore he is the more affected with the Goodness of God, in that the cause of his Fear is removed.</p>
+            <p>This is a punctually true Narrative, and the Substance of it the Reader will find in the following Affidavits, to be Sworn before the Lord Mayor: And this wonderful Matter of Fact hath been enquired into, with all its Circumstances, by Noted Divines both of the Church of <hi>England</hi> and others, and by Emi<g ref="char:EOLhyphen"/>nent Doctors of Physick of the College, and very many Persons of Quality, who have ex<g ref="char:EOLhyphen"/>pressed themselves fully satisfied, that this Cure is very Extraordinary, and wrought by the immediate Hand of God. This is so well known in the City, that there was no need of desiring a Certificate under their Hands; and but only <hi>that</hi> here inserted, of two Doctors of Physick; especially considering the following <hi>Affidavits.</hi>
+            </p>
+         </div>
+         <div type="testimonies">
+            <div type="affidavit">
+               <pb n="13" facs="tcp:97849:6"/>
+               <head>The <hi>Affidavit</hi> of Mrs. <hi>Elizabeth Savage.</hi>
+               </head>
+               <p>I <hi>Elizabeth Savage,</hi> Wife of <hi>John Savage,</hi> living in <hi>Horse-shooe Alley</hi> in <hi>Moor-Fields,</hi> in the Parish of St. <hi>Leonard Shoreditch,</hi> do Testi<g ref="char:EOLhyphen"/>fie and Declare, That ever since I can <hi>remem<g ref="char:EOLhyphen"/>ber,</hi> I have been afflicted with a <hi>Palsical Di<g ref="char:EOLhyphen"/>stemper,</hi> (for so it was called) in my right Side, which was very sensible on that Hand; my Thumb, and three of my Fingers, were drawn and bowed round, so as their Ends al<g ref="char:EOLhyphen"/>most touched my Palm, it being impossible, without the help of my other Hand, to stretch them out, which at most was but a <hi>little way,</hi> and that with <hi>pain;</hi> by which means, I was rendred very helpless. I could not at any time, since I can remember, make use of that Hand <hi>to feed my self;</hi> my whole right Side wanted the <hi>Strength</hi> and <hi>Warmth</hi> of my other Side, and my Hand the Colour also, being very pale and wan. It was a great Pain and Toil to me to travel, though I never could very far. And thus I remained until <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> the 22d 1693, which Day my Husband and my Self set apart for Fasting and Prayer upon a <hi>spiritual Account,</hi> my Distemper being <hi>no End of it,</hi> not so much as having it upon my Thoughts. And about Eleven of the Clock my Husband reading the <hi>Eighth Chapter</hi> of St. <hi>Matthew,</hi> and the <hi>Second Verse,</hi> (where
+<pb n="14" facs="tcp:97849:7"/>the <hi>Leper</hi> exercised his Faith in the Power of Christ) he propounded several Questions to me, which, with my Answers and the Occa<g ref="char:EOLhyphen"/>sion thereof, are truly set down in the Rela<g ref="char:EOLhyphen"/>tion. About the time when he was reading the third Verse, where Christ said, <hi>I will, be thou clean; I felt the middle Joints of my lame Fingers greatly ake; and, as I remember, im<g ref="char:EOLhyphen"/>mediately, or at least before the Chapter was read out, my Fingers and Thumb were stretch'd out,</hi> without any Means used: By which wonder<g ref="char:EOLhyphen"/>ful Work of God, I enjoy the Advantages I never did before; the whole right Side of my Body being (I finding as yet nothing to the contrary) in as <hi>perfect a Soundness</hi> as my other. And therefore to God alone I desire to ascribe the Glory.</p>
+               <closer>
+                  <signed>
+                     <hi>The Mark of</hi> Elizabeth Savage.</signed>
+                  <dateline>
+                     <hi>Jurat. fuit</hi>
+                     <date>26<seg rend="sup">o</seg>
+                        <hi>die Januarii</hi> 1693,</date>
+                     <hi>coram me</hi>
+                  </dateline>
+                  <signed>William Ashhurst, <hi>Major.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="15" facs="tcp:97849:7"/>
+               <head>The <hi>Affidavit</hi> of Mr. <hi>John Savage,</hi> Husband to Mrs. <hi>Savage.</hi>
+               </head>
+               <p>I <hi>John Savage,</hi> living in <hi>Horse-shooe Alley</hi> in <hi>Moor-Fields,</hi> in the Parish of St. <hi>Leonard Shoreditch,</hi> do Certifie, That <hi>Elizabeth Savage,</hi> my Wife, hath been troubled with the <hi>Palsie,</hi> as it was called, in her right Side, ever since I married her, which hath been about two Years and a Quarter. It was most <hi>predomi<g ref="char:EOLhyphen"/>nant</hi> in that Hand, <hi>contracting her Thumb and three Fingers into a crooked and distorted form, and clinching them almost close to her Palm.</hi> I further declare, I have, whensoever I have observed it, always found her Hand to be very <hi>cold;</hi> and that I have received a Letter from my Brother <hi>Flight</hi> at <hi>Wargrove</hi> near <hi>Henley,</hi> in which he testifies, That my Wife's Mother, who lives at <hi>Hitchington</hi> in <hi>Bucking<g ref="char:EOLhyphen"/>hamshire,</hi> asserts, That she knows no other, but that she brought the aforesaid Distemper into the World with her, for it was much per<g ref="char:EOLhyphen"/>ceived by her when she was Twelve Months old; and desiring the Advice of a Surgeon, he prescribed her some strengthning Things, and to bath her with Oyls, which nevertheless proved <hi>ineffectual;</hi> and she has remained, as we thought, <hi>incurable,</hi> until the 22d of <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1693; when, being in the Duty of Fasting and Prayer, the Relation that I had
+<pb n="16" facs="tcp:97849:8"/>heard of the <hi>French Girls</hi> Cure came so pow<g ref="char:EOLhyphen"/>erfully upon my Mind, that I heartily praised the Name of Almighty God for shewing his Power in so wonderful a manner; and after Prayer, and not before, it was that this my Wife's Illness came into my Mind: So I took the Bible into my Hand, and thought to have Read the same Chapter that the <hi>Girl</hi> had done; but not remembring which it was, I casting mine Eye upon the Eighth Chapter of <hi>Matthew,</hi> and finding it treated of the Mira<g ref="char:EOLhyphen"/>cles of Our Blessed Saviour, namely of the <hi>Leper</hi>'s being cleansed, <hi>&amp;c.</hi> I began to read; and about the time when I was reading the Third Verse, my Wife, as she told me, <hi>felt a great akeing in her crooked Fingers, which were stretched out, and became strait before the Chapter was read quite out;</hi> whereupon it be<g ref="char:EOLhyphen"/>came warm, like the other Hand, and Strength increased. All this was done without any out<g ref="char:EOLhyphen"/>ward or humane Means used, we never ha<g ref="char:EOLhyphen"/>ving any Thoughts to use any, (the Particu<g ref="char:EOLhyphen"/>lars being more largely discuss'd in the Nar<g ref="char:EOLhyphen"/>rative;) which in Conscience I am bound to testifie as the wonderful Work of God, not having any Profit, Interest, or Advantage by the Publication thereof, but only the Glo<g ref="char:EOLhyphen"/>ry of God.</p>
+               <closer>
+                  <signed>John Savage.</signed>
+                  <dateline>
+                     <hi>Jurat. fuit</hi>
+                     <date>26<seg rend="sup">o</seg>
+                        <hi>die Januarii</hi> 1693,</date>
+                     <hi>coram me</hi>
+                  </dateline>
+                  <signed>William Ashhurst, <hi>Major.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="17" facs="tcp:97849:8"/>
+               <head>The <hi>Affidavit</hi> of Mrs. <hi>Sarah Thewer.</hi>
+               </head>
+               <p>I <hi>Sarah Thewer,</hi> Wife of Captain <hi>Henry Thewer,</hi> living in <hi>Horse-shooe Alley</hi> in <hi>Moor-Fields,</hi> being a <hi>Neighbour</hi> to Mr. <hi>John Savage,</hi> with whom I have been very <hi>well acquainted</hi> for about this ten Years, and have always taken him to be a very <hi>honest</hi> Man: I have also been acquainted with his Wife about one Quarter of a Year, whose Fingers I have <hi>observed</hi> to be very <hi>crooked,</hi> she making <hi>little or no use</hi> of that <hi>Hand;</hi> and hearing the Report of her <hi>Cure,</hi> I went to visit her, and found her Hand to be changed from a <hi>crooked form</hi> to a <hi>strait one;</hi> which was done, as they infor<g ref="char:EOLhyphen"/>med me, without any humane Means, by reading the <hi>Eighth Chapter</hi> of St. <hi>Matthew</hi>
+               </p>
+               <closer>
+                  <signed>Sarah Thewer.</signed>
+                  <dateline>
+                     <hi>Jurat fuit</hi>
+                     <date>26<seg rend="sup">o</seg>
+                        <hi>die Januarii</hi> 1693,</date>
+                     <hi>coram me</hi>
+                  </dateline>
+                  <signed>William Ashhurst, <hi>Major.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="18" facs="tcp:97849:9"/>
+               <head>The <hi>Affidavit</hi> of Mrs. <hi>Grace Doubleday.</hi>
+               </head>
+               <p>I <hi>Grace Doubleday,</hi> Wife of <hi>Francis Dou<g ref="char:EOLhyphen"/>bleday,</hi> Tin-Plate-Worker, living in <hi>Horse-shooe Alley</hi> in <hi>Moor-Fields,</hi> being a Neighbour to Mr. <hi>John Savage,</hi> whom I have known a considerable time, and have been also acquainted with his Wife Mrs. <hi>Elizabeth Savage,</hi> and have <hi>observed</hi> her Fingers since I knew them to be very <hi>crooked;</hi> but having seen them since <hi>De<g ref="char:EOLhyphen"/>cember</hi> the 22d 1693, I find them to be ve<g ref="char:EOLhyphen"/>ry <hi>strait.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>The Mark of</hi> Grace Doubleday.</signed>
+                  <dateline>
+                     <hi>Jurat. fuit</hi>
+                     <date>26<seg rend="sup">o</seg>
+                        <hi>die Januarii</hi> 1693,</date>
+                     <hi>coram me</hi>
+                  </dateline>
+                  <signed>William Ashhurst, <hi>Major.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="19" facs="tcp:97849:9"/>
+               <head>The <hi>Certificate</hi> of <hi>Richard Baldwin</hi> of <hi>Henley.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Jan.</hi> the 8th. 1693.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>MRs. Savage</hi> being my <hi>Wife's Sister,</hi> I have known her about nine Years; and that ever since, she hath been lame in her Hand, her Fingers and Thumb being crooked; so that they were of little Use.</p>
+               <closer>
+                  <dateline>Witness my Hand,</dateline>
+                  <signed>
+                     <hi>Richard Baldwin,</hi> of <hi>Henley</hi> upon <hi>Thames</hi> in <hi>Oxfordshire,</hi> Mau<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tster.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="20" facs="tcp:97849:10"/>
+               <head>The <hi>Certificate</hi> of Mr. <hi>Thomas Slater</hi> of <hi>Darking.</hi>
+               </head>
+               <p>I Am willing to satisfie all Persons that are inquisitive of the Truth of the fore<g ref="char:EOLhyphen"/>going Relation, that I have known Mrs. <hi>Savage</hi> for more than two Years and a half last past, and have often been in her Com<g ref="char:EOLhyphen"/>pany both at her House and other Places; in all which time, I never saw her any otherwise than Lame, <hi>three of her Fingers and Thumb was almost clinch'd close to her Palm:</hi> And being at <hi>London</hi> since the 22d Day of <hi>December</hi> 1693, I cannot discern, but her Fingers are as <hi>well</hi> as those of her <hi>other Hand,</hi> her Husband and She declaring to me the manner of its Cure. I am well satisfied with the Matter of Fact in all its Circumstances, as also with the Sincerity and Honesty of the Parties themselves. I render this Testimony as unquestionably true.</p>
+               <closer>
+                  <signed>
+                     <hi>Thomas Slater,</hi> living at <hi>Darking</hi> in the County of <hi>Surrey.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>London</hi>
+                     <date>Jan. 23. 1693.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="21" facs="tcp:97849:10"/>
+               <head>The <hi>Certificate</hi> of Mr. <hi>Tho. Slater,</hi> Jun.</head>
+               <p>BY these I am willing to satisfie the un<g ref="char:EOLhyphen"/>prejudiced Inquisitor, (and as for the Incredulous I am not in the least sollici<g ref="char:EOLhyphen"/>tous) that I have known Mrs. <hi>Savage</hi> more than two Years past, wherein I have been curious in the Observation of her Hand; and do testifie, That her <hi>Thumb</hi> and <hi>Three</hi> of her <hi>Fingers</hi> were of a very tortile and crooked Form, and seemed to me as <hi>fixed;</hi> for I have seen her put on her Glove, which she hath forced to be pliant according to the Distortion of her Fingers. I have seen her since the 22d Day of <hi>December</hi> last, and do find a visible Alteration, her Fingers being, for ought I see, as pliable as those of her <hi>other hand.</hi> And having heard that it's reported Mr. <hi>Savage</hi> designs a Selfish and Secular Interest by the Publication of this Narrative, I do certifie, that it is wholly a Fiction; as I am able to demon<g ref="char:EOLhyphen"/>strate to any reasonable Enquirer.</p>
+               <closer>
+                  <signed>Thomas Slater, living in <hi>Bow-lane,</hi> at the Corner of <hi>Bazing-lane.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>London,</hi>
+                     <date>Jan. 2. 1693.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="22" facs="tcp:97849:11"/>
+               <head>The <hi>Certificate</hi> of Mr. <hi>Joseph Davis,</hi> Linnen-Draper, upon <hi>Little Tower-Hill.</hi>
+               </head>
+               <p>I <hi>Joseph Davis,</hi> Linnen-Draper, having had some Years Acquaintance with Mrs. <hi>Elizabeth Savage,</hi> I have often taken Notice of the <hi>Crookedness of her Fingers.</hi> They seemed as though they wanted the Circulation of the Blood; which is, by the Power of God, made useful, like her other Hand. </p>
+               <closer>
+                  <signed>Attested by me Joseph Davis.</signed>
+                  <dateline>
+                     <date>Jan. 30. 1693.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="certificate">
+               <pb n="23" facs="tcp:97849:11"/>
+               <head>The <hi>Certificate</hi> of <hi>Mr. Robert Ainsworth.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Feb.</hi> 2. 1693.</date>
+                  </dateline>
+               </opener>
+               <p>THese may certifie the Inquisitive, that for above two Years last past, where<g ref="char:EOLhyphen"/>in I have known Mrs. <hi>Savage,</hi> and been several times at the House upon Business; I never saw her hold her Hand otherwise than distorted, and crooked; and do real<g ref="char:EOLhyphen"/>ly believe it was so. But having seen it since the 22d of <hi>December,</hi> I find it won<g ref="char:EOLhyphen"/>derfully altered.</p>
+               <closer>
+                  <signed>
+                     <hi>Robert Ainsworth,</hi> Schoolmaster, in <hi>Bartholomew's Square</hi> near <hi>Old-street.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="oath">
+               <pb n="24" facs="tcp:97849:12"/>
+               <opener>
+                  <dateline>
+                     <date>Febr. 6. 1693.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>WE whose Names are underwrit do Testifie, That upon diligent Search and Observation, we find Mrs.</hi> Elizabeth Savage<hi>'s Right-Hand and Arm strait and use<g ref="char:EOLhyphen"/>ful as the other.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Tho. Burwell, <hi>Praeses Coll. Med. Lond.</hi>
+                        </item>
+                        <item>Rich. Morton, <hi>Soc. Coll. Med. Lond.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="25" facs="tcp:97849:12"/>
+            <head>AN APPENDIX.</head>
+            <p>THE foregoing Narrative gives an Instance of the Mighty Power of Christ in Miracle-working; and of his great Condescention to exert it now in the State of his Exaltation, who in the days of his Flesh gave abun<g ref="char:EOLhyphen"/>dant Proof of it to his very Enemies by manifold Signs and Wonders. The Miracles done by him were not only Rare and Unusual, which sort of Works sometimes are taken for Miracles, but Supernatural also; and therefore could not be reasonably deemed the Effects of Causes meerly Natural, but unde<g ref="char:EOLhyphen"/>niable Indications of the immediate Power of God Almighty's Finger: And such are taken for Divine Miracles, whether Angels or Men are Instru<g ref="char:EOLhyphen"/>ments
+<pb n="26" facs="tcp:97849:13"/>concerned in them. Such was restoring Sight to the Blind by the Application of Clay and Spittle: Such was <hi>Peter,</hi> giving Legs to the lame Man, by pronouncing his Cure in the Name of Jesus of <hi>Nazareth:</hi> And such indeed were all the Miracles our Lord did, re<g ref="char:EOLhyphen"/>corded in the Gospel: Such was the French Maids of late; and such is this of Mrs. <hi>Savages</hi> Cure by an <hi>Exercise of Faith</hi> in the <hi>Power of Christ,</hi> In reading part of the eighth Chapter of St. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi>'s Gospel.</p>
+            <p>It's true, Men are <hi>divided</hi> in their Apprehensions about Miracles, as they are about many other things: Some seem to think them unceased in any Consideration except in Fact, Christians being under the same Promise of Christ's Presence with them, and of Signs fol<g ref="char:EOLhyphen"/>lowing those that believe in all Ages of the Church, as well as in Apostolical Times; and that they are not done, is because of the <hi>Sin</hi> and <hi>Ʋnbelief</hi> of those under a Christian Profession which Ob<g ref="char:EOLhyphen"/>structs them. Others there are that think Miracles were necessary, and per<g ref="char:EOLhyphen"/>formed for Establishing the Christian
+<pb n="27" facs="tcp:97849:13"/>Religion at its first Publication, but of no longer Continuance than the Apostles days, and therefore either to pretend, expect or report Miracles of any Kind since those Times, is wholly Ridiculous unto them. I doubt both are Extreams of such a Nature, as have a Tendency contrary to that of Pro<g ref="char:EOLhyphen"/>moting or Establishing Christian Piety.</p>
+            <p>That Miracles have Ceased, as to their Number and Greatness compared to what they were in Apostolical Times, seems very Injudicious to deny. But that no Miracle of any Kind, or on any Occasion whatsoever, hath been, or shall be performed, is every way as Un<g ref="char:EOLhyphen"/>grounded, and much more Irreligious.</p>
+            <p>Although the Religion of the <hi>Jews</hi> (to go no higher) was accompanied, in its first Publication and Establishment, with such Miracles, in the space of Sixty Years, from their Bondage to their Pos<g ref="char:EOLhyphen"/>session of <hi>Canaan,</hi> that many Hundreds of Years, in after-times, did not pro<g ref="char:EOLhyphen"/>duce the like; (for though some of the following Ages were, for Faith and Holiness, no way beneath those Men who saw the mighty Works of God;
+<pb n="28" facs="tcp:97849:14"/>few Miracles are Recorded to have been wrought therein:) Yet would it be a great sign of <hi>Prophaneness</hi> and <hi>Infide<g ref="char:EOLhyphen"/>lity</hi> in any, to Ridicule the Wonders which the Holy Scripture testifies that God accomplished in After-times, as if they were altogether <hi>Fictitious:</hi> And albeit it be true, that some Miracles in succeeding Times were very Stupendi<g ref="char:EOLhyphen"/>ous and of large Observation, as that of the Sun's going back, and several others, yet were they not so convincingly De<g ref="char:EOLhyphen"/>monstrative of the Finger of God unto <hi>Infidels,</hi> as were many of those in the Time of <hi>Moses,</hi> in <hi>Egypt,</hi> at the <hi>Red Sea,</hi> and in the <hi>Wilderness.</hi> In many Instances there seemed to be a Vailing or Lessen<g ref="char:EOLhyphen"/>ing of Miracles of the same kind in After-times to what they were before. <hi>Shimei</hi>'s Punishment, who cursed <hi>David,</hi> was in a Sense vailed, whereas <hi>Mirian</hi>'s who spoke against <hi>Moses</hi> was both more Open and Amazing; <hi>Ʋzziah</hi>'s Pre<g ref="char:EOLhyphen"/>sumption in Assuming the Priest's Work was punish'd with <hi>Leprosie only;</hi> but the Earth opened and swallowed up <hi>Corah</hi> and his Aspiring Company. <hi>Ʋz<g ref="char:EOLhyphen"/>ziah</hi>'s sudden Death for his Disorder,
+<pb n="29" facs="tcp:97849:14"/>was of a far less Amazing Consideration, than to be devoured with Fire from Heaven, as were <hi>Nadab</hi> and <hi>Abihu</hi> for theirs. It is then no undue Conclusion, that there was a great Disparity be<g ref="char:EOLhyphen"/>tween the Miracles in the first Age of the Church of <hi>Israel,</hi> and the purest Ages afterwards before our Lord's Coming, both as to Number and Great<g ref="char:EOLhyphen"/>ness; notwithstanding the certainty of Miracles being not wholly ceased in those times.</p>
+            <p>It cannot then be inferr'd from the Greatness and Number of Miracles done only in the first Age of the Christian Ch. that they have altogether ceased since; for so it was also in the first Age of the Jewish Church: and yet 'tis evident, a to<g ref="char:EOLhyphen"/>tal Cessation of Miracles did not ensue.</p>
+            <p>Nor is it of weight, to object the ceasing of the Miraculous Gift of Tongues, 1 <hi>Cor.</hi> 13.8. were a total and perpetual Ceasing thereof granted, for that there were <hi>Material Differences</hi> be<g ref="char:EOLhyphen"/>tween some Miracles and others in the Occasions and Continuance of them. The Gift of Tongues to the Apostles, and some others (perhaps Helpers with
+<pb n="30" facs="tcp:97849:15"/>them in their Ministry amongst Infidels) was highly comporting with the Com<g ref="char:EOLhyphen"/>mission they had to enable them to Preach the Gospel to all Nations, with<g ref="char:EOLhyphen"/>out which they had been no other than <hi>Barbarians,</hi> unto many of them to whom they preached. And the peculiar Ne<g ref="char:EOLhyphen"/>cessity of Tongues seems to have ceased, when the Gospel was published unto, and spread abroad amongst the Nations, pursuant to that Commission. But the peculiar Occasion of Healing Miracles (which is all I instance in now) <hi>viz.</hi> The sad and piercing Miseries of Man<g ref="char:EOLhyphen"/>kind, sometimes Remediless by Appli<g ref="char:EOLhyphen"/>cations meerly Natural, remained the same in After-times, though that General end of those abounding Miracles, <hi>viz.</hi> The Gospels Ratification did not so; but ceased at least in degree. Tongues were for a Sign, not for Believers but Unbe<g ref="char:EOLhyphen"/>lievers: But Healing Miracles were ei<g ref="char:EOLhyphen"/>ther common to Believers and Unbe<g ref="char:EOLhyphen"/>lievers, or peculiar unto visible Believers, for which end that Ordinance of Holy Anointing, <hi>James</hi> 5.16. was instituted.</p>
+            <p>And by the same Authority on which it is inferr'd that Tongues have ceased,
+<pb n="31" facs="tcp:97849:15"/>Prophesie also failed: If Prophesie be taken for Fore-telling future Events by immediate Revelation: And to conclude thereupon that none of all the Christians since the Apostles, have had on any oc<g ref="char:EOLhyphen"/>casion the least part or hint of immedi<g ref="char:EOLhyphen"/>ate Revelation about any future thing, would be a severe Reflection, not on the Judgment only, but upon the Integrity also of many Persons of Worth in several Ages, that in publick and private cases have attested it, and more, the Facts themselves have verified it; as in Bishop <hi>Ʋsher,</hi> and many other Mens cases. More<g ref="char:EOLhyphen"/>over, as Miracles of divers kinds, had place in the Church of <hi>Israel,</hi> and were done by the Apostles of our Lord, when yet the Miracle of Tongues was not. Its Ceasing doth not necessarily inferr the Ceasing of all other Miracles, since they existed antecedently to it, and without it, and consequently may when it is gone. This being then one of the most material Allegations for the Ceasing of Miracles from Holy Scripture, it seems very un<g ref="char:EOLhyphen"/>warrantable (the Premises considered) to resolve upon so unnecessary a Conse<g ref="char:EOLhyphen"/>quence, that Tongues being ceased, there<g ref="char:EOLhyphen"/>fore
+<pb n="32" facs="tcp:97849:16"/>all Miracles are ceased, and that too against the abundant Testimony that for<g ref="char:EOLhyphen"/>mer Ages and this present Age doth fur<g ref="char:EOLhyphen"/>nish us with, from competent and credi<g ref="char:EOLhyphen"/>ble Witnesses in Matter of Fact.</p>
+            <p>That end of Miracles to confirm the Gospel, that Men might Believe, affords no due Conclusion for the absolute Cea<g ref="char:EOLhyphen"/>sing of Miracles: For such was the end of the <hi>Sinai</hi> Wonders, that the People might believe for ever, as if God had done those to that end, that there might be no occasion for future Miracles to give Attestation unto those revealed Truths. And so were the Wonders in <hi>Egypt,</hi> and Institutions thereupon to be improved by lasting Rehearsals and Documents from Father to Son, that they might set their Hope in God. And albeit the De<g ref="char:EOLhyphen"/>sign of those great Wonders, was to give firm Ground to the Faith of that present and all succeeding Ages, in the Truth of <hi>Israel</hi>'s God and Worship, in opposition to the Idolatry and other Sins of the <hi>Gentiles.</hi> Yet in <hi>Elijah</hi>'s time was the All-wise God pleased, by new Miracle, to attest and ratifie the same Truth, that so many great Wonders had given proof
+<pb n="33" facs="tcp:97849:16"/>of before. As therefore it is undeniable, that Miracles were wrought after the Establishment of the Jewish Religion, notwithstanding that general end of the foregoing Miracles; and that it would be very Atheistical, to Ridicule the Mira<g ref="char:EOLhyphen"/>cles accomplished in the Times of the Kings of <hi>Israel</hi> and <hi>Judah:</hi> So would it be very Unchristian to Mock at the Mi<g ref="char:EOLhyphen"/>raculous Works of Christ wrought since the Establishment of the Christian Reli<g ref="char:EOLhyphen"/>gion; when sufficient Testimony is given of them.</p>
+            <p>That the Gospel is from a Supernatu<g ref="char:EOLhyphen"/>ral Cause, and flows not from Nature, but Grace, will be acknowledged by some that deny the Continuation of Miracles. The Kingly, Priestly, and Prophetical Offices of Christ, and the Glorious Effects thereof, are from this Root. The Interpo<g ref="char:EOLhyphen"/>sures of Grace to restrain Nature from the direct Workings and Effects of it. To animate it to a Concurrence in Cau<g ref="char:EOLhyphen"/>ses and Effects, in which of it self there is an absolute Defect; and to suspend it, by working Effects every way above it, and that in a multitude of Instances, must be the Concessions of those who believe the
+<pb n="34" facs="tcp:97849:17"/>Covenant of Grace, and the great Ends thereof, to make Nature in its original Designment, give place, and be subservi<g ref="char:EOLhyphen"/>ent unto the Glorious Intendments of that Covenant. The setting aside the Terms of the Covenant of Works, and sa<g ref="char:EOLhyphen"/>ving Men through <hi>Jesus Christ,</hi> in turning them from Darkness to Light, and rai<g ref="char:EOLhyphen"/>sing them from Death to Life by the Mighty Power of God. The Perseverance, Sanctification, and Preservation of the Godly; together with the Omnipotent Power of God, put forth in Divine Pro<g ref="char:EOLhyphen"/>vidences of Mercy and Judgment in the Government of the World, are all of Grace not of Nature. And how it is possible to think, that the Results of Di<g ref="char:EOLhyphen"/>vine Workings in these things, are in so invariable, common and fixed a Course, that no unusual Steps of Divine Work<g ref="char:EOLhyphen"/>ings have ever occurred to Observation in the Conversion of Sinners, Preservation of the People of God, or Restraints and Punishments of the Wicked, since the days of the Apostles is not in the com<g ref="char:EOLhyphen"/>pass of my Perceptions; nor, I think, con<g ref="char:EOLhyphen"/>sistent with the common Faith and Con<g ref="char:EOLhyphen"/>fession of Christians. Men deem Nature to have her Prodigies, and to break the
+<pb n="35" facs="tcp:97849:17"/>common Bounds very often, to the Amazement of Observers: And shall we think the Dominion of Grace has no Ra<g ref="char:EOLhyphen"/>rity of Effects? And I doubt such as deny it, are not beyond other Men in their Re<g ref="char:EOLhyphen"/>marks, and Experiences of the Workings of Christ. Wherefore if there have been any rare and uncommon Steps of the Su<g ref="char:EOLhyphen"/>pernatural, Omnipotent Workings of Christ (which, I think, is not Religiously deniable in any Age of the Church) then there has been Miracles since the Apostles Times. And why this should be allowed, and a Presumption notwithstanding, that Christ neither hath, nor will shew his Power in any unwonted Steps of Mira<g ref="char:EOLhyphen"/>culous Healing, or other publick or per<g ref="char:EOLhyphen"/>sonal case of Mercy or Judgment, I do not discern. It seems not improbable, but that by the same Measures the one is ri<g ref="char:EOLhyphen"/>diculed, the other may, and will be, by some sort of Persons.</p>
+            <p>The Presence of God with the Patri<g ref="char:EOLhyphen"/>archs, did not only import the common Concurrence of God with second Causes in Favour of them, but also included all those Miraculous Providences of God towards them, that are recorded in the Sacred History.</p>
+            <pb n="36" facs="tcp:97849:18"/>
+            <p>A true Idea whereof, no doubt but <hi>Moses,</hi> that Man of God, had; and there<g ref="char:EOLhyphen"/>fore in his Importunities for God's Pre<g ref="char:EOLhyphen"/>sence with his People, intended no less than the Divine Protection and Blessing common unto Gods Chosen, and Mira<g ref="char:EOLhyphen"/>culous also, as the Necessities of that Peo<g ref="char:EOLhyphen"/>ple should require, in those ordinary and extraordinary Emergencies that hap<g ref="char:EOLhyphen"/>pen'd unto them in their Wilderness<g ref="char:EOLhyphen"/>trials and <hi>Canaan</hi>-wars. And accordingly must the Promises of God's Presence with his People, be understood for their Pro<g ref="char:EOLhyphen"/>tection, and the Subduing of their Ene<g ref="char:EOLhyphen"/>mies. Pursuant whereunto, the People of God had Testimonies, not a few, of his wonderful Works in the several Ages of the Church. And why any should narrow the Promise of Christ (to be with his Peo<g ref="char:EOLhyphen"/>ple always to the end of the World) to that degree, that whatever the Promise of the Divine Presence signified to the People of God in times before, including the Miraculous Workings of God for them; yet it was then limited unto com<g ref="char:EOLhyphen"/>mon and invariable Occurrences only, whatsoever the Necessities of the Saints should require, I do not apprehend.
+<pb n="37" facs="tcp:97849:18"/>And therefore conclude, that the Pro<g ref="char:EOLhyphen"/>mise of Christ imports his engaging him<g ref="char:EOLhyphen"/>self to appear for his People both in com<g ref="char:EOLhyphen"/>mon and extraordinary Methods, as their Necessities should require. And in<g ref="char:EOLhyphen"/>deed Miracles seem hence undeniable, unless it should be supposed, that neither in the Trials of Christians under the Hea<g ref="char:EOLhyphen"/>then Emperors, in the Papacy, nor any future Times, there has occurred, or shall occur any extraordinary occasion for a Miracle; which may be easily refuted by a due considering the equality of Chri<g ref="char:EOLhyphen"/>stians Emergencies with those of the Jews, that were the occasions of God's Works of Wonders for them. By the extraordi<g ref="char:EOLhyphen"/>nary and late publick Revolutions for the Salvation of God's People; and by the innumerable Instances of wonderful Assistances and Favours to the Suffering Christians in Times past: To deny which, would inevitably blemish the most cre<g ref="char:EOLhyphen"/>dible Historians among the Christians of Old, and those of the Protestant Professi<g ref="char:EOLhyphen"/>on of Late. Besides which, it is of weight, that we have not only the general Pro<g ref="char:EOLhyphen"/>mise of Christ's Presence with his People, but particular Promises that respect his
+<pb n="38" facs="tcp:97849:19"/>having bound himself to Miraclc-work<g ref="char:EOLhyphen"/>ing as in his Divine Wisdom he should see the Necessities of his People require. The generous Promise of Christ to do for his People whatsoever they should ask in his Name, and that too in cases, which by the connection of his words at the same time, seems to respect Miracles. And that Signs should follow them that believe <hi>&amp;c.</hi> do not admit of such a Limitation that he meant never to grant them one Sign or miraculous Appearance till Dooms-day, whatever their Prayers and Necessities should be. And to construe them with such a restraint, seems to ren<g ref="char:EOLhyphen"/>der them much beneath the Dignity, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Fullness, if not the Sincerity of Promise from the Lord Christ.</p>
+            <p>Nor are the Prophetical Scriptures al<g ref="char:EOLhyphen"/>together silent on this account, <hi>Isa. Je<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dan.</hi> and the <hi>Revelations,</hi> afford man<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Witnesses of the Wonder-working Pow<g ref="char:EOLhyphen"/>er of Christ, respecting the Times of th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Church after the Apostles times. To ab<g ref="char:EOLhyphen"/>breviate, let the <hi>Revelations</hi> be consulte<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> about the Churches Preservation, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Restraints of her Enemies Men and De<g ref="char:EOLhyphen"/>vils. The Witnesses Testimony, Cont<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nuance,
+<pb n="39" facs="tcp:97849:19"/>Signs, Death, and Resurrection; the Overthrow of <hi>Turkish</hi> and <hi>Papal</hi> Power; the <hi>Jews</hi> Call, Effusions of the Holy Spirit, and Glory of the Church in the Latter Days; and ponder, if all these can be without one Miracle; if not, then Miracles are not totally ceas'd.</p>
+            <p>And whatever the Unfrequency of Miracles have been in Times past; by the Prophet <hi>Jer.</hi> ch. 23. it seems as if the Latter Day will produce greater, and more amazing and affecting Wonders, than were those wrought for <hi>Israel</hi>'s Re<g ref="char:EOLhyphen"/>demption out of <hi>Egypt.</hi> Perhaps we are not far from those Times; and these late extraordinary Appearances of God may be good Presages to the Godly of what God is about to do, and Moni<g ref="char:EOLhyphen"/>tions to the Wicked, to awaken them to Repentance.</p>
+            <p>It is then an Extreme to deny all Mi<g ref="char:EOLhyphen"/>racles; tho it must be confest, the World has been extremely abused by false pre<g ref="char:EOLhyphen"/>tended Miracles, contrived to introduce and establish Superstition, and promote and enrich a Party: and 'tis no Point of Wisdom to be injudiciously credulous. The <hi>Wise-man</hi> says, <hi>The Fool believes
+<pb n="40" facs="tcp:97849:20"/>every word;</hi> and this Weakness has been of very ill consequence both to Religi<g ref="char:EOLhyphen"/>on and Common Right. But there is one general Rule in the Book of God, if it had been duly applied, that would have detected a Multitude of those Shams; <hi>viz.</hi> When the Tendency of pretended Miracles are to seduce and draw Men into Faith and Practices contrary to the sure Word of Prophe<g ref="char:EOLhyphen"/>cy that God has establish'd, even by the Confessions of those who were the pretended Miracle-Workers; to try Miracles as well as Spirits, by the Word of God. To the Law and to the Te<g ref="char:EOLhyphen"/>stimony (says the Prophet) if they speak not according to this Word, it's because there is no Light in them. But when the Property, Frame and Design of reported Miracles, has no other Ten<g ref="char:EOLhyphen"/>dency but to excite Men to a more firm and real Belief of the Existence, Power, Sovereignty, and Goodness of God; the Reality of the Christian Religion; the Good of Duty, and Evil of Sin; and the Certainty and Faithfulness of Divine Promises and Threatnings; and to conform Men in their Lives thereun<g ref="char:EOLhyphen"/>to;
+<pb n="41" facs="tcp:97849:20"/>it is of ill consequence to be too incredulous about them. Only due Care ought to be taken to prevent or detect Falshoods. God has no need of Mens pious Frauds or Contrivances, to bear false Witness for him. We must not do Evil that Good may come of it. True Religion would suffer a Scandal by such means, instead of gaining any Reputa<g ref="char:EOLhyphen"/>tion. To prevent which,</p>
+            <p>The Fact it self, and Reputation of the Persons concerned, ought to be du<g ref="char:EOLhyphen"/>ly inspected. If there is evident Reason to conclude pretended Miracles are on<g ref="char:EOLhyphen"/>ly natural Products, or the Report frau<g ref="char:EOLhyphen"/>dulent, they ought to set them aside as such: If uncertain in the Judgment of any Man that considers them whether the effect be natural or supernatural, and the Report be true or untrue, then the Belief thereof is to be suspended; but Men should be cautious of being over-bold in concluding that to be merely natural, or the Report of it fi<g ref="char:EOLhyphen"/>ctitious, which impartial Justice ought to pass as a Thing difficult to be resol<g ref="char:EOLhyphen"/>ved; lest they speak evil or slightly of what they do not know. If reputed
+<pb n="42" facs="tcp:97849:21"/>Miracles have a good, not an evil Ten<g ref="char:EOLhyphen"/>dency, but labour under Uncertainty, and the Evidence of them be unconvin<g ref="char:EOLhyphen"/>cing; the Fault of absolutely determi<g ref="char:EOLhyphen"/>ning them to be Miracles, is not inferior to Over-credulousness, especially if such as are not calculated to advance a Par<g ref="char:EOLhyphen"/>ty, and ingrossed by a Sect which I think there's no pretence of in the late Instance of the <hi>French Maid,</hi> or the foregoing <hi>Relation.</hi>
+            </p>
+            <p>As fome have entertained Angels un<g ref="char:EOLhyphen"/>awares, so perhaps some have believed true Miracles precipitantly enough; but a <hi>Medium</hi> is best. But if the Report be certain, and the Fact indicate the Fin<g ref="char:EOLhyphen"/>ger of Christ at work after a superna<g ref="char:EOLhyphen"/>tural and unusual manner with uncon<g ref="char:EOLhyphen"/>troulable Evidence, (as some of Christs Works have been such that there was no rising up against them with any rati<g ref="char:EOLhyphen"/>onal Pretence) there ought then to be a full Credence given unto them.</p>
+            <p>I grant, there is scarce any Evidence of particular Facts, such as this is, but the Incredulity of some seems to pre<g ref="char:EOLhyphen"/>pare them to deny it; but then it ought to be considered, whither such Deni<g ref="char:EOLhyphen"/>als
+<pb n="43" facs="tcp:97849:21"/>tend. If the Atheist's measures were taken in their Negations of, and Oppo<g ref="char:EOLhyphen"/>sitions to God and Religion, <hi>viz.</hi> to ad<g ref="char:EOLhyphen"/>mit no Record, no Testimony, as suffici<g ref="char:EOLhyphen"/>ent in the matter of Right and Wrong, but what has a greater Certainty than the Sacred Records about matter of Fact, the concurrent Testimony of Na<g ref="char:EOLhyphen"/>tional Attestations with the stupendious Works of God in most Ages; the com<g ref="char:EOLhyphen"/>mon sense of Mankind about the Worlds Original and Multiplication, as being to be attributed to God, not unto Attoms, Chance, or unintelligible senseless Some<g ref="char:EOLhyphen"/>thing or Nothing; all common Right must inevitably be set aside, as found<g ref="char:EOLhyphen"/>ed on Uncertainty or mere Fiction. If the unbeliever, or Opposer of the Lord Jesus Christ, will deny the Miracles of Christ formerly, in the Ages since, and now of late, as Heaven's Attestations for our Lord and the Christian Religion; might not the Heathens, by the same Rule, have doubted the Proof of any God by <hi>Moses</hi>'s Miracles, in Opposition to some known or unknown Deity of their own. To deny Christ's Acts to have Divine Testimonials for establish<g ref="char:EOLhyphen"/>ing
+<pb n="44" facs="tcp:97849:22"/>the evident Truth of his Messiahship, makes way for the Pagans to deny those by <hi>Moses</hi> for the Truth of <hi>Israel</hi>'s God and Religion. If the Profane scoff at the Works of Christ now, and invent Quibbles against them, are not the <hi>Jews</hi> Cavils against Christ's Miracles strength<g ref="char:EOLhyphen"/>ned, and the Certainty of the Facts, and and Virtue of them transmitted unto us, weak'ned? And indeed, the Denials of some seem to be such as overturn the Foundations of all Religious and Hu<g ref="char:EOLhyphen"/>mane Credence.</p>
+            <p>Reputed Miracles of this kind then, are not to be slighted; and as they come within the View and Cognizance of Men, are to be duely considered; they have Christ's Voice, as well as his Power in them, and Men are bound nar<g ref="char:EOLhyphen"/>rowly to search out the wondrous Works of God, to believe and improve them, as the Children of <hi>Israel</hi> in <hi>Egypt,</hi> for or against themselves. <hi>Pharaoh</hi> and the <hi>Egyptians</hi> were not at liberty to suspend their Credence about the Signs given by <hi>Moses,</hi> but were bound to be<g ref="char:EOLhyphen"/>lieve them. So were the <hi>Jews</hi> to believe Christ for his Works sake: And the Pro<g ref="char:EOLhyphen"/>fane
+<pb n="45" facs="tcp:97849:22"/>to believe and improve the Tower of <hi>Shiloam</hi>'s Fall to their Repentance; as did the <hi>Ninevites</hi> the Threatnings of <hi>Jonah.</hi> And there are none of the ex<g ref="char:EOLhyphen"/>traordinary Works of Christ in this day but carries Rebuke to the Atheist, Infi<g ref="char:EOLhyphen"/>del, Profane, or him that is lukewarm in Religion; and Encouragement, Strength, and Stability, to the experi<g ref="char:EOLhyphen"/>enced practical Christian.</p>
+            <p>Whether the Fact in the foregoing Relation be a full and undeniable Proof of the <hi>supernatural</hi> Working of Christ in an uncommon Method, is left to the Consciences of all Enquirers about it. And as to the Reputation of the Persons chiefly concerned as Relators, I do not think this a fit Occasion to make a Noise of their Worth; I believe, should it be attempted, themselves would heartily oppose it. I think it is enough to say, from those most intimately acquainted with Mr. <hi>Savage</hi> many Years, and that have observed his Wife's manner of Conversation some Years, that they are Persons of that Conscience and con<g ref="char:EOLhyphen"/>stant Habit of sincere Speech, that they that know them best, and love
+<pb n="46" facs="tcp:97849:23"/>them least (for I know none that hate them) cannot accuse them on this Account.</p>
+         </div>
+         <div type="publishers_note">
+            <head>Books lately Printed for <hi>John Dunton.</hi>
+            </head>
+            <p n="1">1. THE First Volume of the <hi>French Book of Mar<g ref="char:EOLhyphen"/>tyrs.</hi> Published with her Majesties Royal Pri<g ref="char:EOLhyphen"/>vilege. The Second Volume is already in the Press, and the Third and Fourth preparing for it.</p>
+            <p n="2">2. Bishop <hi>Barlow's Remains;</hi> Containing near an hundred distinct Subjects. Published from his Lord<g ref="char:EOLhyphen"/>ship's Original Papers.</p>
+            <p n="3">3. The Orders of the <hi>Helvetian</hi> Church, recom<g ref="char:EOLhyphen"/>mended to the Publick, by Six Reverend Bishops.</p>
+            <p n="4">4. The Tragedies of Sin, by <hi>Stephen Jay</hi> Rector of <hi>Chinner.</hi>
+            </p>
+            <p n="5">5. A Practical Discourse on 1 <hi>Thes.</hi> 4.17. by <hi>John Brandon,</hi> Rector of <hi>Finchamstead.</hi>
+            </p>
+            <p n="6">6. Casuistical Morning Exercises: The Fourth Vo<g ref="char:EOLhyphen"/>lume, by several Ministers in and about <hi>London.</hi>
+            </p>
+            <p n="7">7. Heads of Agreement Assented to by the United Ministers.</p>
+            <p n="8">8 The Life of the Reverend Mr. <hi>Brand;</hi> by Dr. <hi>Samuel Annesley.</hi>
+            </p>
+            <p n="9">9. Gospel Truth stated, <hi>&amp;c.</hi> by <hi>Daniel Williams.</hi> The Second Edition.</p>
+            <p n="10">10. Funeral Discourses on several Texts; by <hi>John Shower.</hi>
+            </p>
+            <p n="11">11. Practical Discourses on Sickness and Recovery; by <hi>Timothy Rogers,</hi> M. A.</p>
+            <p n="12">12. <hi>Mensalia Sacra;</hi> or, Meditations on the Lord's Supper: by <hi>Francis Crow,</hi> M. A.</p>
+            <p n="13">13. The Life and Death of the Reverend Mr. <hi>Eliot,</hi> the first Preacher of the Gospel to the <hi>Indians</hi> in <hi>Ame<g ref="char:EOLhyphen"/>rica.</hi> The Third Edition.</p>
+         </div>
+         <div type="publishers_note">
+            <pb facs="tcp:97849:23"/>
+            <head>Books in the Press, and Designed for it, Printed for <hi>John Dunton,</hi> viz.</head>
+            <p n="1">1. THE Lord <hi>Faulkland</hi>'s Works, Secretary of State to King <hi>Charles</hi> I. Folio.</p>
+            <p n="2">2. Mr. <hi>William Leybourn</hi>'s New Mathematical Tra<g ref="char:EOLhyphen"/>states. Folio.</p>
+            <p n="3">3. A Continuation of Morning-Exercise, Questions, and Cases of Conscience. The Second Edition. Quarto.</p>
+            <p n="4">4. The Doctrine of the Holy Trinity asserted, by <hi>Isaac Maudeist.</hi> Minister of <hi>Tooting.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p n="5">5. Proposals for a National Reformation of Manners. Price 6 <hi>d.</hi>
+            </p>
+            <p n="6">6. A Methodical and Comparative Description of all the Religions in the World; with their Sub<g ref="char:EOLhyphen"/>divisions. In Two Parts. By a Divine of the Church of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="publishers_note">
+            <head>Books Printed for <hi>John Harris</hi> at the <hi>Harrow</hi> in the <hi>Poultry.</hi>
+            </head>
+            <p n="1">1. THE Great Historical, Geographical, and Poe<g ref="char:EOLhyphen"/>tical Dictionary; Being a curious Miscellany of Sacred and Profane History.</p>
+            <p n="2">2. An Antidote against a Careless Indifferency in Matters of Religion: Being a Treatise in Opposition to those that believe, That all Religions are indifferent. Wherein the Vulgar Objections of Atheists, Scepticks, Libertines, Latitudinarians, <hi>&amp;c.</hi> are briefly answer'd. With an Introduction, by <hi>A. Horneck,</hi> D. D. Price 1 <hi>s.</hi>
+            </p>
+            <p n="3">3. The <hi>Revelation</hi> Unvailed; or, an Essay towards the discovering (1.) When many Scripture Prophecies had their Accomplishment, and turned into History; (2.) What are now Fulfilling; (3.) What rest still to be Fulfilled. With a Guess at the Time of them, <hi>&amp;c.</hi> By <hi>Samuel Pesto.</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:97849:24"/>
+            <p n="4">4. A Collection of Modern Relations of Matter of Fact, concerning Witches and Witchcraft, <hi>&amp;c.</hi> With a Meditation of the late Lord Chief Justice <hi>Hale,</hi> upon Occasion of a Tryal of several Witches before him. Price 1 <hi>s.</hi>
+            </p>
+            <p n="5">5. A Narrative of the Wonderful and Extraordinary Fits Mr. <hi>Spatchet</hi> was under by Witchcrast, <hi>&amp;c.</hi> Writ<g ref="char:EOLhyphen"/>ten by Mr. <hi>Pesto,</hi> who was an Eye-witness. Price 6 <hi>d.</hi>
+            </p>
+            <p n="6">6. Mathematical Divinity: by <hi>Elias Palmer.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p n="7">7. Dr. <hi>Salmon</hi>'s Practical Physick: shewing the Me<g ref="char:EOLhyphen"/>thod of Curing the most usual Diseases.</p>
+            <p n="8">8. A Compendious History of the first Inventors of the most famous Arts, Mysteries, Laws, Customs, and Manners in the whole World. Alphabetically digested.</p>
+            <p n="9">9. Travels over <hi>Europe:</hi> Containing what is most Curious in <hi>France.</hi>
+            </p>
+            <p n="10">10. Travels over <hi>Europe:</hi> Containing the Curiosities of <hi>Spain</hi> and <hi>Portugal.</hi>
+            </p>
+            <p n="11">11. The Treasury of Drugs unlock'd, <hi>&amp;c.</hi> by <hi>J. Ja<g ref="char:EOLhyphen"/>ceb. Berlu,</hi> Merchant in Drugs.</p>
+            <p n="12">12. Memoirs for the Ingenious: Containing several Curious Observations in Philosophy, Mathematicks, Physick, History, Philology, and other Arts and Sci<g ref="char:EOLhyphen"/>ences. By <hi>J. De la Crose, Eccl. Angl. Presb.</hi> for the Year 1693.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>THoographia:</hi> Or, A new Art of Short-Hand. Be<g ref="char:EOLhyphen"/>ing a more Natural, Grammatical, and Easie Me<g ref="char:EOLhyphen"/>thod, than any yet Extant. Approved of by the ablest Pen-Men in <hi>London.</hi> Sold by <hi>Hen. Mortlock</hi> at the <hi>Phoenix</hi> in St. <hi>Paul</hi>'s Churchyard, and <hi>Jo. Harris</hi> at the <hi>Harrow</hi> in the <hi>Poultry;</hi> and by the Publisher and Gra<g ref="char:EOLhyphen"/>ver <hi>Tho. Slater</hi> in <hi>Bow-Lane,</hi> at the Corner of <hi>Basing-Lane.</hi>
+            </p>
+         </div>
+         <trailer>
+            <hi>FINIS.</hi>
+            <pb facs="tcp:97849:24"/>
+         </trailer>
+      </back>
+   </text>
+</TEI>
